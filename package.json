@@ -1,0 +1,15 @@
+{
+  "name": "hvote",
+  "version": "1.0.0",
+  "description": "A blockchain based hoving application",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tha_Hobbist",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
